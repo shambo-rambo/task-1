@@ -38,10 +38,6 @@ li a {
   transition: background-color 0.3s ease;
 }
 
-.active {
-  background-color: #04AA6D;
-}
-
 li a:hover {
   background-color: #535353;
 }
@@ -57,7 +53,7 @@ body {
 .hero-banner {
   width: 100vw; 
   min-height: 30vh; 
-  background-image: url('https://i.pinimg.com/736x/07/86/5f/07865fc52b1718591e8e010106dda05a.jpg');
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/91/781/305/fries-french-fries-food-wallpaper-preview.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
